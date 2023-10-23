@@ -9,8 +9,8 @@ public class MyCalc{
 	
 	public static void main(String[] args) {
 		MyCalc calc = new MyCalc();
-		System.out.println("Sum is-"+calc.sum(10,40));
-		System.out.println("Diff is-"+calc.diff(10,40));
+		System.out.println("Sum is-"+calc.sum(20,10));
+		System.out.println("Diff is-"+calc.diff(20,10));
 
 	}
 
